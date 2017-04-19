@@ -1,0 +1,21 @@
+<svg height="286" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="286" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-19 14:12:03 +0000    40223 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-19 14:12:03 +0000      248 bytes  AUTHORS</tspan>
+<tspan x="10" y="58">  2.  2017-04-19 14:12:03 +0000     1083 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-19 14:12:03 +0000     3520 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-19 14:12:03 +0000     5696 bytes  lib/array.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-19 14:12:03 +0000     1854 bytes  lib/chain.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-19 14:12:03 +0000     3223 bytes  lib/collectors.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-19 14:12:03 +0000     2319 bytes  lib/flow.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-19 14:12:03 +0000     2656 bytes  lib/queue.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-19 14:12:03 +0000     1138 bytes  lib/throttle.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-19 14:12:03 +0000      321 bytes  lib/utils.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-19 14:12:03 +0000      517 bytes  metasync.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-19 14:12:03 +0000     3325 bytes  package.json</tspan>
+<tspan x="10" y="234"> 13.  2017-04-19 14:12:03 +0000     2438 bytes  tests/chain.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-19 14:12:03 +0000    11492 bytes  tests/examples.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-19 14:12:03 +0000      393 bytes  tests/queue.js</tspan>
+</text>
+</svg>
